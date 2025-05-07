@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pica App
+title: Legal & Support Info
 permalink: /
 ---
 
