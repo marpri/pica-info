@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Privacy Policy
-permalink: /privacy/
+title: Pica App
+permalink: /
 ---
 
 # Pica App – Legal & Support Info
